@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohitthakkar30
 - 👀 I’m interested in Blockchain domain
-- 🌱 I’m currently learning Hyperledger
+- 🌱 I’m currently learning Solidity
 
 <!---
 mohitthakkar30/mohitthakkar30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
