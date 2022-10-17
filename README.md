@@ -9,6 +9,8 @@
 <a href="mailto:thakkarmohit90@gmail.com">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
+<br>
+
 
 - 👋 Hi, I’m Mohit Thakkar
 - 👀 I’m interested in Blockchain domain
