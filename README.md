@@ -10,12 +10,8 @@
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
 <br>
-
-
-
-
-
-
+<br>
+<br>
 
 - 👋 Hi, I’m Mohit Thakkar
 - 👀 I’m interested in Blockchain domain
