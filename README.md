@@ -9,6 +9,11 @@
 <a href="mailto:thakkarmohit90@gmail.com">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png" />
 </a>
+
+<a href="http://linktr.ee/mohitthakkar" target="_blank">
+  <img align="left" width="26px" src="https://www.computerhope.com/jargon/l/linktree.png" />
+</a>
+
 <br>
 <br>
 <br>
