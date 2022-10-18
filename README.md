@@ -24,9 +24,9 @@
 
 ### Languages I use to talk to computer 🤔
 
-<img align="left" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
-<img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img align="left" alt="Solidity" width="98" height="28" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_solidity_icon_130156.png"/>
+<img align="left" height="35" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white">
+<img align="left" alt="Python" height="35" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img align="left" alt="Solidity" width="98" height="35" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_solidity_icon_130156.png"/>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 <p>&nbsp;</p>
