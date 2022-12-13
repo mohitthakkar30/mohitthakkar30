@@ -56,7 +56,7 @@
     <img align="left" alt="Solana" width="70" height="33"  src="https://www.pngall.com/wp-content/uploads/10/Solana-Crypto-Logo-PNG-File.png"/>
 <p>&nbsp;</p>
 
-<br><br><br>
+<br><br>
 
 ![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitthakkar30&show_icons=true&theme=radical)
 <br><br>
