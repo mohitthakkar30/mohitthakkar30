@@ -22,6 +22,7 @@
 - 👀 I enjoy learning and working on Blockchain technology.
 - 🌱 My tech-stack includes Solidity, Rust, JavaScript, Anchor, React, Next, Ethers.js, SolanaWeb3.js, Java.
 - ❤️ Member of Developer DAO
+- ❤️ Contributor at SuperteamDAO
 - 🚀 I have made projects like Covid vaccine tracker based on Hyperledger Fabric, also have worked on Escrow System with multi-chain support. I have worked on the Auction platform on Solana. Building Rentable NFTs on Optimism and watch to earn platform.
 
 
