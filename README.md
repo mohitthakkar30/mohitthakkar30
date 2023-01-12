@@ -59,7 +59,7 @@
 
 <br><br>
 
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitthakkar30&&count_private=true&show_icons=true&theme=radical)
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitthakkar30&&count_private=true&show_icons=true)
 <br><br>
 ![Mohit's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=mohitthakkar30&theme=blue-green)
       
