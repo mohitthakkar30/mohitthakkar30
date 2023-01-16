@@ -23,6 +23,7 @@
 - 🌱 My tech-stack includes Solidity, Rust, JavaScript, Anchor, React, Next, Ethers.js, SolanaWeb3.js, Java.
 - ❤️ Member of Developer DAO
 - ❤️ Contributor at SuperteamDAO
+- 🚀 Participating in various Hackathons to BUIDL dApps.
 
 
 
