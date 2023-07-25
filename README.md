@@ -25,6 +25,7 @@
 - ❤️ Contributor at SuperteamDAO
 - 🚀 Participating in various Hackathons to BUIDL dApps.
 - 🏆 2x Hackathon Winner
+- 📓 Hyperlane Community Advocate
 
 
 
